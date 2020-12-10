@@ -1,7 +1,7 @@
 # Vivvo DID Specification
 ##  W3C Editor's Draft 21 September 2018 
 
-*This version:*
+**This version:**
 [https://github.com/Vivvo/vivvo-did-spec](https://github.com/Vivvo/vivvo-did-spec)
 
 *Latest published version:*
