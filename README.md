@@ -2,12 +2,15 @@
 ##  W3C Editor's Draft 21 September 2018 
 
 **This version:**
+
 [https://github.com/Vivvo/vivvo-did-spec](https://github.com/Vivvo/vivvo-did-spec)
 
-*Latest published version:*
+**Latest published version:**
+
 [https://www.w3.org/TR/vivvo-did-scheme/](https://www.w3.org/TR/vivvo-did-scheme/)
 
-*Editors:*
+**Editors:**
+
 [Jamie Jamieson](https://github.com/jjamieson1)
 
 ## About
