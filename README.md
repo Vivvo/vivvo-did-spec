@@ -14,17 +14,17 @@
 [Jamie Jamieson](https://github.com/jjamieson1)
 
 ## About
-The Vivvo DID method specification conforms to the requirements specified in the DID specification currently published by the W3C Credentials Community Group. For more information about DIDs and DID method specifications, please see the DID Primer and DID Spec.
+The Vivvo DID method specification conforms to the requirements specified in the DID specification currently published by the W3C Credentials Community Group. For more information about DIDs and DID method specifications, please see the [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/did-primer.md)  and [DID Spec](https://w3c-ccg.github.io/did-spec/).
 
 ## Abstract
-Vivvo is a private ledger designed specifically and only for privacy-preserving self-sovereign identity. The Vivvo Ledger is governed by Vivvo Application Studios. As a private ledger designed exclusively for self-sovereign identity, Vivvo is optimized for DIDs and DID Documents. DIDs are created, stored, and used with verifiable claims. This specification covers how these DIDs are managed. It also describes related features of Vivvo of particular interest to DID owners, guardians, and developers.
+Vivvo is a private ledger designed specifically and only for privacy-preserving self-sovereign identity. The Vivvo Ledger is governed by [Vivvo Application Studios](https://www.vivvo.com). As a private ledger designed exclusively for self-sovereign identity, Vivvo is optimized for DIDs and DID Documents. DIDs are created, stored, and used with verifiable claims. This specification covers how these DIDs are managed. It also describes related features of Vivvo of particular interest to DID owners, guardians, and developers.
 
 ## Status of This Document
-This section describes the status of this document at the time of its publication. Other documents may supersede this document. A list of current W3C publications and the latest revision of this technical report can be found in the W3C technical reports index at https://www.w3.org/TR/.
+This section describes the status of this document at the time of its publication. Other documents may supersede this document. A list of current W3C publications and the latest revision of this technical report can be found in the [W3C technical reports index](https://www.w3.org/TR/) at https://www.w3.org/TR/.
 
 Publication as an Editor's Draft does not imply endorsement by the W3C Membership. This is a draft document and may be updated, replaced or obsoleted by other documents at any time. It is inappropriate to cite this document as other than work in progress.
 
-This document was produced by a group operating under the W3C Patent Policy. W3C maintains a public list of any patent disclosures made in connection with the deliverables of the group; that page also includes instructions for disclosing a patent. An individual who has actual knowledge of a patent which the individual believes contains Essential Claim(s) must disclose the information in accordance with section 6 of the W3C Patent Policy.
+This document was produced by a group operating under the [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/). W3C maintains a [public list of any patent disclosures](https://vivvo.github.io/vivvo-did-scheme/spec/did-method-spec-template.html) made in connection with the deliverables of the group; that page also includes instructions for disclosing a patent. An individual who has actual knowledge of a patent which the individual believes contains [Essential Claim(s)](https://www.w3.org/Consortium/Patent-Policy/#def-essential) must disclose the information in accordance with [section 6 of the W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/#sec-Disclosure).
 
 This document is governed by the [1 March 2019 W3C Process Document.](https://www.w3.org/2019/Process-20190301/)
 Table of Contents
@@ -42,7 +42,7 @@ This DID method applies to the Vivvo network in all its incarnations.
 
 ##  3. Namespace Specific Identifier (NSI)
 
-The Vivvo DID scheme is defined by the following ABNF:
+The Vivvo DID scheme is defined by the following [ABNF:](ftp://ftp.rfc-editor.org/in-notes/std/std68.txt)
 
 vivvo-did = "did:vvo:idstring" *(":" subnamespace)
 idstring = 21*22(char)
