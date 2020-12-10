@@ -1,4 +1,14 @@
 # Vivvo DID Specification
+##  W3C Editor's Draft 21 September 2018 
+
+*This version:*
+[https://github.com/Vivvo/vivvo-did-spec](https://github.com/Vivvo/vivvo-did-spec)
+
+*Latest published version:*
+[https://www.w3.org/TR/vivvo-did-scheme/](https://www.w3.org/TR/vivvo-did-scheme/)
+
+*Editors:*
+[Jamie Jamieson](https://github.com/jjamieson1)
 
 ## About
 The Vivvo DID method specification conforms to the requirements specified in the DID specification currently published by the W3C Credentials Community Group. For more information about DIDs and DID method specifications, please see the DID Primer and DID Spec.
