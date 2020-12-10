@@ -9,7 +9,7 @@
 
 [https://www.w3.org/TR/vivvo-did-scheme/](https://www.w3.org/TR/vivvo-did-scheme/)
 
-**Editors:**
+**Editor(s):**
 
 [Jamie Jamieson](https://github.com/jjamieson1)
 
